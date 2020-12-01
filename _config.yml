@@ -1,13 +1,13 @@
 # Site settings
-title: Globien Interlingu
-SEOTitle: Globien - Makes Communication Easier
+title: 诸葛不亮的博客
+SEOTitle: 学而时习之，不亦乐乎
 header-img: img/post-bg-desk.jpg
-email: globien@outlook.com
-description: "Easy to learn, no more hard work to recite vocabulary."
-keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
-url: "https://globien.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
+email: myhuyiyong@126.com
+description: "诸葛不亮，不定时更新。"
+keyword: "金融，时政，历史，哲思，文学，音乐"
+url: "https://myhyy.github.io"          # your host, for absolute URL
+baseurl: "/myhyy.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/myhyy/myhyy.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in b
 RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
-github_username:      globien
+github_username:      myhyy
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 6a11cab9f46fe57e56a1                            #生成的clientID
   clientSecret: 27ac9ec88d1ecd4c819f7423c95b4ca66e54156a    #生成的clientSecret
-  repo:  globien.github.io    #仓库名称
-  owner: globien    #github用户名
-  admin: globien
+  repo:  myhyy.github.io    #仓库名称
+  owner: myhyy    #github用户名
+  admin: myhyy
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
